@@ -1,1 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=philleonard&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philleonard&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=philleonard&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=philleonard&theme=monokai)
